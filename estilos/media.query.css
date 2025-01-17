@@ -12,6 +12,7 @@ TV ou telas grandes: acima de 1280px.
     }
     section#login {
         width: 80vw;
+        height:180px;
     }
     section#login > div#imagem {
         float: left;
